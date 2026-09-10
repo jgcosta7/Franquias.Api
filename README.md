@@ -156,7 +156,6 @@ Franquias.Api/
 │
 ├── appsettings.json
 ├── Program.cs
-├── franquias.db
 └── README.md
 ```
 
